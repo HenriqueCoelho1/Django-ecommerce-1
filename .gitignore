@@ -1,6 +1,7 @@
 #
 docker-compose.yml
 Dockerfile
+trash
 
 
 # Django #
